@@ -65,6 +65,7 @@ distlib==0.3.4
 distributed @ file:///C:/ci/distributed_1635968318313/work
 Django==2.2.5
 django-crispy-forms==1.14.0
+django-environ==0.8.1
 docutils @ file:///C:/ci/docutils_1620828264669/work
 entrypoints==0.3
 et-xmlfile==1.1.0
